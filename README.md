@@ -1,10 +1,5 @@
 # 🏫 Sistema de Control de Asistencia y Gestión de Personal (ESPE-CRUD)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![IDE](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans&logoColor=white)
-![Modelado](https://img.shields.io/badge/PowerDesigner-007ACC?style=for-the-badge&logo=diagrams.net&logoColor=white)
-![Versionado](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
 ## 📝 1. Descripción del Proyecto
 Este software es una solución tecnológica orientada a objetos (POO) diseñada específicamente para la automatización, auditoría y control bitácora de los flujos de ingreso (entradas) y egreso (salidas) del personal de la **Universidad de las Fuerzas Armadas ESPE**. 
 
